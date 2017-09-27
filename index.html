@@ -3,8 +3,27 @@
 <head>
     <meta charset="UTF-8">
     <title>Informatica</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style/bootstrap-grid.css">
+    <link rel="stylesheet" href="style/bootstrap-reboot.css">
+    <link rel="stylesheet" href="style/custom.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <script type="text/javascript" src="js/translator.js"></script>
 </head>
 <body>
-
+<div class="row">
+    <div class="col-3">
+        <h1>
+            <translate key="test"></translate>
+        </h1>
+    </div>
+    <div class="col-3">
+        <button type="button" class="btn" id="langSwitch" onclick="switchLang()"><translate key="vertaal_naar"></translate></button>
+    </div>
+</div>
 </body>
 </html>

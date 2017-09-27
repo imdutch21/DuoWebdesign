@@ -1,0 +1,6 @@
+<lang>
+    <test lang="ned">Dit is een test titel</test>
+    <test lang="eng">This is a test title</test>
+    <vertaal_naar lang="eng">Vertaal naar Nederlands</vertaal_naar>
+    <vertaal_naar lang="ned">Translate to English</vertaal_naar>
+</lang>

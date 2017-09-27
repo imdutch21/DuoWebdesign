@@ -1,13 +1,16 @@
-
 /*tranlation engine*/
 
-function test() {
+window.onload = function () {
+    loadTranlation(false)
+};
+
+function loadTranlation(force) {
+    //laad het lang bestand en doet de vertalingen
     var xhttp = new XMLHttpRequest();
     var translated = false;
     xhttp.onreadystatechange = function () {
         if (this.readyState === 4 && this.status === 200 && !translated) {
-            translated = translate(this, false);
-            // console.log(getTranslation(this, "title1", "ned"));
+            translated = translate(this, force);
         }
     };
     xhttp.open("GET", "lang.xml", true);
@@ -17,6 +20,7 @@ function test() {
 
 
 function translate(xml, force) {
+    //haalt de vertaling op en past de pagina aan
     var translations = document.getElementsByTagName("translate");
     for (var i = 0; i < translations.length; i++) {
         var trans = translations[i];
@@ -28,6 +32,7 @@ function translate(xml, force) {
 
 
 function getTranslation(xml, translate, lang) {
+    //haalt de vertaling met op uit het xml bestand
     var xmlDoc = xml.responseXML;
     var elements = xmlDoc.getElementsByTagName(translate);
     for (var i = 0; i < elements.length; i++) {
@@ -39,6 +44,24 @@ function getTranslation(xml, translate, lang) {
 }
 
 function getCurrentLang() {
-    return "eng";
+    //Deze ifstatement is hier om te kijken of getItem wel iets terug geeft, de default taal is nederlands
+    if (localStorage.getItem("setLanguage") === "eng")
+        return "eng";
+    else
+        return "ned";
 }
+
+
+function switchLang() {
+    //Switcht de taal en herlaad de vertalingen
+    var lang = localStorage.getItem("setLanguage");
+    if (lang === "eng") {
+        localStorage.setItem("setLanguage", "ned");
+    } else {
+        localStorage.setItem("setLanguage", "eng");
+    }
+    //forceerd de vertaling
+    loadTranlation(true);
+}
+
 /*end tranlation engine*/
