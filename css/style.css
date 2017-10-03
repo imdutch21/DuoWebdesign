@@ -1,27 +1,43 @@
 h1{
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 700;
-    font-size: 18px;
+    font-family: 'Open Sans', sans-serif !important;
+    font-weight: 700 !important;
+    font-size: 25px !important;
+    line-height: 1.5 !important;
+
 }
 
 h2{
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 700;
-    font-size: 16px;
+    font-family: 'Open Sans', sans-serif !important;
+    font-weight: 700 !important;
+    font-size: 16px !important;
 }
 
 p{
-    font-family: 'Open Sans', sans-serif;
-    font-width:400;
-    font-size: 16px;
+    font-family: 'Open Sans', sans-serif !important;
+    font-width:400 !important;
+    font-size: 16px !important;
 }
 
 #container{
-    width: 80%;
-    margin: 0 auto;
-    background-color: blue;
+    width: 100%;
+    margin: 68px auto;
+    background-color: lightgray;
 }
+
+#head{
+    background-image: url("../img/head.png");
+    background-size: cover;
+}
+#head img{
+    justify-content: center;
+    margin-top: 500px;
+}
+#head h1{
+    text-align: center;
+    color: white;
+}
+
 .text{
-    width: 90%;
-    margin: 10px auto;
+    width: 80%;
+    margin: 50px auto;
 }
