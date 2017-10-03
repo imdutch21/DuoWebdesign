@@ -1,0 +1,27 @@
+h1{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+h2{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+    font-width:400;
+    font-size: 16px;
+}
+
+#container{
+    width: 80%;
+    margin: 0 auto;
+    background-color: blue;
+}
+.text{
+    width: 90%;
+    margin: 10px auto;
+}
