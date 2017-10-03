@@ -6,14 +6,22 @@ window.onload = function () {
 
 function loadTranlation(force) {
     //laad het lang bestand en doet de vertalingen
-    var xhttp = new XMLHttpRequest();
+    var xhttp;
+    if (window.XMLHttpRequest) {
+        // code for IE7+, Firefox, Chrome, Opera, Safari
+        xhttp = new XMLHttpRequest();
+    }
+    else {
+        // code for IE6, IE5
+        xhttp = new ActiveXObject("Microsoft.XMLHTTP");
+    }
     var translated = false;
     xhttp.onreadystatechange = function () {
         if (this.readyState === 4 && this.status === 200 && !translated) {
             translated = translate(this, force);
         }
     };
-    xhttp.open("GET", "http://lang.xml", true);
+    xhttp.open("GET", "lang.xml", true);
     xhttp.send();
 
 
