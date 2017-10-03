@@ -21,7 +21,7 @@ function loadTranlation(force) {
             translated = translate(this, force);
         }
     };
-    xhttp.open("GET", "lang.xml", true);
+    xhttp.open("GET", "https://rawgit.com/imdutch21/DuoWebdesign/master/lang.xml", true);
     xhttp.send();
 
 
