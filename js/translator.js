@@ -13,8 +13,9 @@ function loadTranlation(force) {
             translated = translate(this, force);
         }
     };
-    xhttp.open("GET", "lang.xml", true);
+    xhttp.open("GET", "http://lang.xml", true);
     xhttp.send();
+
 
 }
 
