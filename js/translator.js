@@ -1,8 +1,8 @@
 /*tranlation engine*/
 
-window.onload = function () {
+$(document).ready(function(){
     loadTranlation(false)
-};
+});
 
 function loadTranlation(force) {
     //laad het lang bestand en doet de vertalingen
@@ -21,6 +21,7 @@ function loadTranlation(force) {
             translated = translate(this, force);
         }
     };
+    //access file from github because of issues on different browsers
     xhttp.open("GET", "https://rawgit.com/imdutch21/DuoWebdesign/master/lang.xml", true);
     xhttp.send();
 

@@ -41,3 +41,18 @@ p{
     width: 80%;
     margin: 50px auto;
 }
+
+div#watLeerIk {
+    /*padding-top: 90px;*/
+    /*padding-bottom: 200px;*/
+    background: url("../img/afbeelding2.png") no-repeat;
+    justify-content: center;
+    padding-top: 20%;
+    width: 100%;
+    padding-bottom: 30%;
+    background-size: cover;
+}
+
+#watLeerIk h1, #watLeerIk p, #watLeerIk h2{
+    color: WHITE;
+}
