@@ -1,7 +1,19 @@
 /*tranlation engine*/
 
 $(document).ready(function(){
-    loadTranlation(false)
+    loadTranlation(false);
+
+    $("#nedSwitch").click(function () {
+        localStorage.setItem("setLanguage", "ned");
+        $("#nedSwitch").attr("disabled", "disabled");
+        $("#engSwitch").removeAttr("disabled", "disabled");
+    });
+
+    $("#engSwitch").click(function () {
+        localStorage.setItem("setLanguage", "eng");
+        $("#engSwitch").attr("disabled", "disabled");
+        $("#nedSwitch").removeAttr("disabled", "disabled");
+    });
 });
 
 function loadTranlation(force) {
@@ -60,6 +72,7 @@ function getCurrentLang() {
     else
         return "ned";
 }
+
 
 
 function switchLang() {
