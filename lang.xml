@@ -1,6 +1,37 @@
 <lang>
-    <test lang="ned">Dit is een test titel</test>
-    <test lang="eng">This is a test title</test>
-    <vertaal_naar lang="eng">Vertaal naar Nederlands</vertaal_naar>
-    <vertaal_naar lang="ned">Translate to English</vertaal_naar>
+    <informatica lang="ned">Informatica</informatica>
+    <informatica lang="eng">Computer science</informatica>
+
+    <watIsInformaticaH lang="ned">Wat is informatica? Zijn er verschillende richtingen binnen dat vakgebied?</watIsInformaticaH>
+    <watIsInformaticaH lang="eng">What is Computer science? Are there any different directions within this subject?</watIsInformaticaH>
+
+    <watIsInformaticaP lang="ned">Je leert alles over de verschillende aspecten van softwareontwikkeling en
+        automatiseringsprojecten. Je leert
+        onderzoeken aan welke eisen de software moet voldoen, hoe je die eisen vertaalt naar een ontwerp en dat
+        omzet in een computerprogramma. Natuurlijk vergeet je niet te testen of de software ook werkt.
+        <br/>
+        Na de opleiding Informatica ben je Bachelor of Science. Je vindt snel een baan, want de arbeidsmarkt zit te
+        springen om goede softwareontwikkelaars.
+        <br/>
+        De software die je ontwikkelt, staat nooit op zichzelf, maar is onderdeel van een totaaloplossing: ter
+        ondersteuning van bedrijfsprocessen, gecombineerd met andere ICT-applicaties en duurzaamheid. Bij
+        Informatica leer je hoe je jouw software in deze context ontwikkelt. We leiden je op tot een developer die
+        snel met nieuwe technologieën kan werken. We leren je de technologie en belichten achterliggende concepten.
+        Het motto van onze opleiding is creating consumer &amp; enterprise software solutions.
+    </watIsInformaticaP>
+
+    <watIsInformaticaP lang="eng">You learn alles over de verschillende aspecten van softwareontwikkeling en
+        automatiseringsprojecten. Je leert
+        onderzoeken aan welke eisen de software moet voldoen, hoe je die eisen vertaalt naar een ontwerp en dat
+        omzet in een computerprogramma. Natuurlijk vergeet je niet te testen of de software ook werkt.
+        <br/>
+        Na de opleiding Informatica ben je Bachelor of Science. Je vindt snel een baan, want de arbeidsmarkt zit te
+        springen om goede softwareontwikkelaars.
+        <br/>
+        De software die je ontwikkelt, staat nooit op zichzelf, maar is onderdeel van een totaaloplossing: ter
+        ondersteuning van bedrijfsprocessen, gecombineerd met andere ICT-applicaties en duurzaamheid. Bij
+        Informatica leer je hoe je jouw software in deze context ontwikkelt. We leiden je op tot een developer die
+        snel met nieuwe technologieën kan werken. We leren je de technologie en belichten achterliggende concepten.
+        Het motto van onze opleiding is creating consumer &amp; enterprise software solutions.
+    </watIsInformaticaP>
 </lang>

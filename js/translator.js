@@ -1,18 +1,18 @@
 /*tranlation engine*/
 
 $(document).ready(function(){
-    loadTranlation(false);
-
     $("#nedSwitch").click(function () {
         localStorage.setItem("setLanguage", "ned");
         $("#nedSwitch").attr("disabled", "disabled");
         $("#engSwitch").removeAttr("disabled", "disabled");
+        loadTranlation(true);
     });
 
     $("#engSwitch").click(function () {
         localStorage.setItem("setLanguage", "eng");
         $("#engSwitch").attr("disabled", "disabled");
         $("#nedSwitch").removeAttr("disabled", "disabled");
+        loadTranlation(true);
     });
 });
 
