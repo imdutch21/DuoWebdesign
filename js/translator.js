@@ -60,7 +60,7 @@ function getTranslation(xml, translate, lang) {
     for (var i = 0; i < elements.length; i++) {
         var node = elements[i];
         if (node.attributes[0].nodeValue === lang) {
-            return node.textContent;
+            return node.textContent.replace("/br/", "</br>");
         }
     }
 }
