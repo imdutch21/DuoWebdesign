@@ -2,8 +2,10 @@
     <informatica lang="ned">Informatica</informatica>
     <informatica lang="eng">Computer science</informatica>
 
-    <watIsInformaticaH lang="ned">Wat is informatica? Zijn er verschillende richtingen binnen dat vakgebied?</watIsInformaticaH>
-    <watIsInformaticaH lang="eng">What is Computer science? Are there any different directions within this subject?</watIsInformaticaH>
+    <watIsInformaticaH lang="ned">Wat is informatica? Zijn er verschillende richtingen binnen dat vakgebied?
+    </watIsInformaticaH>
+    <watIsInformaticaH lang="eng">What is Computer science? Are there any different directions within this subject?
+    </watIsInformaticaH>
 
     <watIsInformaticaP lang="ned">Je leert alles over de verschillende aspecten van softwareontwikkeling en
         automatiseringsprojecten. Je leert
@@ -20,18 +22,49 @@
         Het motto van onze opleiding is creating consumer &amp; enterprise software solutions.
     </watIsInformaticaP>
 
-    <watIsInformaticaP lang="eng">You learn alles over de verschillende aspecten van softwareontwikkeling en
-        automatiseringsprojecten. Je leert
-        onderzoeken aan welke eisen de software moet voldoen, hoe je die eisen vertaalt naar een ontwerp en dat
-        omzet in een computerprogramma. Natuurlijk vergeet je niet te testen of de software ook werkt.
-        "br"
-        Na de opleiding Informatica ben je Bachelor of Science. Je vindt snel een baan, want de arbeidsmarkt zit te
-        springen om goede softwareontwikkelaars.
-        "br"
-        De software die je ontwikkelt, staat nooit op zichzelf, maar is onderdeel van een totaaloplossing: ter
-        ondersteuning van bedrijfsprocessen, gecombineerd met andere ICT-applicaties en duurzaamheid. Bij
-        Informatica leer je hoe je jouw software in deze context ontwikkelt. We leiden je op tot een developer die
-        snel met nieuwe technologieën kan werken. We leren je de technologie en belichten achterliggende concepten.
-        Het motto van onze opleiding is creating consumer &amp; enterprise software solutions.
+    <watIsInformaticaP lang="eng">You learn everything about the different aspects of software development and
+        atomisation projects.You learn to investigate what requirements software must meet, how to translate these
+        requirements to a design and how to make a computer program based on that design. Of course you wont forget to
+        test whether your software works or not.
+        /br/
+        Up on completing this studie you will be a Bachelor of Science. You will find a job quickly, because the job
+        market is anxious to find good software developers.
+        /br/
+        The software that you develop, is never on its own, but is a part of a bigger solution: to support a business
+        process, combined with different IT-applications and sustainability. With Computer Science you will learn how
+        you develop your software in this context. We will teach you about the technologies and the underlying concepts.
+        Our motto is "creating consumer&amp; enterprise software solutions".
     </watIsInformaticaP>
+
+    <watLeerIkH1 lang="ned">Wat leer ik op de opleiding?</watLeerIkH1>
+    <watLeerIkH1 lang="eng">What do I learn in Computer Science?</watLeerIkH1>
+
+    <watLeerIkP1 lang="ned">Onze uitgangspunten dragen bij aan de verhoging van jouw studiesucces. Softwareontwikkeling
+        is behoorlijk ingewikkeld. Een goede basis is dus belangrijk en je begint de opleiding daarom praktisch en concreet.
+        Later ga je aan de gang met abstractere en complexere onderwerpen. Het rooster is zo opgezet dat je je
+        goed kunt focussen en je bent vooral praktisch bezig met opdrachten van een bedrijf. In de lessen met
+        maximaal 30 studenten wisselen we korte stukjes uitleg af met opdrachten.
+    </watLeerIkP1>
+    <watLeerIkP1 lang="eng">Our principles contribute to improving your study success. Software development is quite
+        difficult. Therefor a good foundation is important and that is why you start your study practical and concrete.
+        Later you will start working on the more abstract and complex subjects. The schedule is made in such a way that
+        you can focus and you are working mainly on assignments from companies. In lessons with a maximum of 30 students
+        we will switch between short pieces of explanation and assignments.
+    </watLeerIkP1>
+
+    <watLeerIkH2 lang="ned">basis</watLeerIkH2>
+    <watLeerIkH2 lang="eng">foundation</watLeerIkH2>
+
+    <watLeerIkP2 lang="ned">Je begint de propedeuse met het aanleren van basisvaardigheden. Je maakt kennis met
+        verschillende aspecten van softwareontwikkeling, zowel op het technische als op het persoonlijke vlak. Geleidelijk
+        verschuift het accent naar het integreren van deze vaardigheden op groepsniveau. Daarbij beperken we het
+        aantal onderwerpen waaraan je werkt. Je wisselt de theorie over diverse onderwerpen af met veel
+        opdrachten en tussentijdse toetsen. Je oriënteert je ook op het beroepenveld.
+    </watLeerIkP2>
+    <watLeerIkP2 lang="eng"> You will start your first year with leaning the basics. You will get acquainted with
+        different aspects of software development, both on technically as on the personal level. Gradually focus will shift
+        to integrating these skills in group projects. While doing so, we decrease the amout of subjects you will work on.
+        You will switch between theory about diverse subjects and assignments. You wil also orientate yourself on the
+        field of work.
+    </watLeerIkP2>
 </lang>
