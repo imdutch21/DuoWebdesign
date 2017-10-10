@@ -1471,15 +1471,15 @@ pre code {
 }
 
 .table-active, .table-active > td, .table-active > th {
-    background-color: rgba(0, 0, 0, .075)
+    background-color: red;
 }
 
 .table-hover .table-active:hover {
-    background-color: rgba(0, 0, 0, .075)
+    background-color: red;
 }
 
 .table-hover .table-active:hover > td, .table-hover .table-active:hover > th {
-    background-color: rgba(0, 0, 0, .075)
+    background-color: red;
 }
 
 .thead-inverse th {
