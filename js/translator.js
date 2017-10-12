@@ -3,15 +3,15 @@
 $(document).ready(function(){
     $("#nedSwitch").click(function () {
         localStorage.setItem("setLanguage", "ned");
-        $("#nedSwitch").attr("disabled", "disabled");
-        $("#engSwitch").removeAttr("disabled", "disabled");
+        $("#engSwitch").attr("src", "img/flag_uk.png");
+        $("#nedSwitch").attr("src", "img/flag_nederland_selected.png");
         loadTranlation(true);
     });
 
     $("#engSwitch").click(function () {
         localStorage.setItem("setLanguage", "eng");
-        $("#engSwitch").attr("disabled", "disabled");
-        $("#nedSwitch").removeAttr("disabled", "disabled");
+        $("#engSwitch").attr("src", "img/flag_uk_selected.png");
+        $("#nedSwitch").attr("src", "img/flag_nederland.png");
         loadTranlation(true);
     });
 });
