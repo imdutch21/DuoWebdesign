@@ -95,6 +95,7 @@ div#watLeerIk {
     background-size: cover;
 }
 
+/*Voor mobiel*/
 @media only screen and (max-width: 480px) {
     div#watLeerIk {
         background: #F16766;
@@ -112,6 +113,9 @@ div#watLeerIk {
         font-size: 18px !important;
     }
 
+    p {
+        font-size: 22px;
+    }
     /*#head {*/
         /*background: #F16766;*/
     /*}*/
