@@ -61,7 +61,7 @@ function getTranslation(xml, translate, lang) {
         var node = elements[i];
         if (node.attributes[0].nodeValue === lang) {
             //geeft de vertaling terug, doordat het een xml bestand is k
-            return node.textContent.replace("/br/", "</br>");
+            return node.textContent.replace(/\/br\//g, "</br>");
         }
     }
 }
