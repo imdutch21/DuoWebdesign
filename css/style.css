@@ -30,6 +30,17 @@ p {
     background-color: rgba(241, 71, 71, .9) !important;
 }
 
+.nav-link {
+    color: WHITE !important;
+}
+
+.anchor {
+    display: block;
+    position: relative;
+    top: -50px;
+    visibility: hidden;
+}
+
 #container {
     width: 100%;
     margin: 0 auto;
