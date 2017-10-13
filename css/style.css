@@ -4,9 +4,7 @@ h1 {
     font-size: 25px !important;
     line-height: 1.5 !important;
 }
-h1 a{
-    text-decoration: none !important;
-}
+
 
 h2 {
     font-family: 'Open Sans', sans-serif !important;
@@ -62,6 +60,9 @@ p {
 #headContact h1 {
     text-align: center;
     color: white;
+}
+#headContact h1 a{
+    text-decoration: none !important;
 }
 
 #head img {
