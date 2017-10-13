@@ -5,6 +5,7 @@ h1 {
     line-height: 1.5 !important;
 }
 
+
 h2 {
     font-family: 'Open Sans', sans-serif !important;
     font-weight: 700 !important;
@@ -70,6 +71,9 @@ p {
 #headContact h1 {
     text-align: center;
     color: white;
+}
+#headContact h1 a{
+    text-decoration: none !important;
 }
 
 #head img {
