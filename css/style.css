@@ -74,6 +74,10 @@ p {
 }
 #headContact h1 a{
     text-decoration: none !important;
+    color: white;
+}
+#headContact h1 a:hover{
+    color: white;
 }
 
 #head img {
