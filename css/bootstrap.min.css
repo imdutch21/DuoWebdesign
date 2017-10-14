@@ -1459,7 +1459,7 @@ pre code {
 }
 
 .table-dark, .table-dark > td, .table-dark > th {
-    background-color: #F16766
+    background-color: #F16766 !important;
 }
 
 .table-hover .table-dark:hover {
@@ -1484,7 +1484,7 @@ pre code {
 
 .thead-inverse th {
     color: #FFF;
-    background-color: #F16766;
+    background-color: #F16766 !important;
 }
 
 .thead-default th {
