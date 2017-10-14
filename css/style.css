@@ -159,3 +159,12 @@ body, html{
 .navbar-collapse {
     flex-basis: 93% !important;
 }
+
+.thead-inverse th {
+    color: #FFF;
+    background-color: #F16766 !important;
+}
+
+.table-dark, .table-dark > td, .table-dark > th {
+    background-color: #F16766 !important;
+}
