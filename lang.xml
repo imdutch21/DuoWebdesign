@@ -183,53 +183,105 @@
         Science?
     </beroepsprofielH1>
 
-    <beroepsprofielP1 lang="ned">Als afgestudeerd informaticus heb je een luxe positie, want de arbeidsmarkt zit te springen om
+    <beroepsprofielP1 lang="ned">Als afgestudeerd informaticus heb je een luxe positie, want de arbeidsmarkt zit te
+        springen om
         goede ICT'ers. Ook de voorspellingen voor de komende jaren zijn gunstig. Je kunt dus kiezen waar je wilt werken
         of wordt zelfs gevraagd voordat je bent afgestudeerd. Kies dus de sector die jou het meeste past. Veel studenten
         gaan werken bij een ICT-dienstverlener. Je kunt ook gaan werken in een specifieke branche, zoals bij een
         verzekeringsmaatschappij, bij een ziekenhuis of bij de overheid./br/
         Potentiële beroepen.
     </beroepsprofielP1>
+    <beroepsprofielP1 lang="eng">When you are a graduated computer scientist you are in a luxurious position, because
+        the job market is anxious for good IT specialists. The predictions for the coming years are also favorable.
+        You can choose where you want to work or even be asked before you are graduated. So choose the sector that fits
+        you the best. Many students go to IT-service providers. You can also go and work in a specific branche, like in
+        insurance companies, in a hospital or even by the government./br/
+        potential jobs.
+    </beroepsprofielP1>
 
     <beroepsprofielH2 lang="ned">Softwareontwikkelaar</beroepsprofielH2>
+    <beroepsprofielH2 lang="eng">Software developer</beroepsprofielH2>
 
-    <beroepsprofielP2 lang="ned">De software-engineer houdt zich bezig met het ontwerpen, programmeren en testen van applicaties en
+    <beroepsprofielP2 lang="ned">De software-engineer houdt zich bezig met het ontwerpen, programmeren en testen van
+        applicaties en
         apps. Hierbij is het belangrijk om met de klant en collega's samen te werken, om zo een compleet programma te
         creëren dat voldoet aan de eisen van de opdrachtgever.
     </beroepsprofielP2>
+    <beroepsprofielP2 lang="eng">The software-engineer is active in the designing, programming and testing stages of
+        developing applications and apps. It is important to work together with customers and colleagues, to create
+        a complete piece of software that meets the requirements of the client.
+    </beroepsprofielP2>
 
     <beroepsprofielH3 lang="ned">IT-architect</beroepsprofielH3>
+    <beroepsprofielH3 lang="ned">IT-architect</beroepsprofielH3>
 
-    <beroepsprofielP3 lang="ned">Dit is geen startersfunctie, maar een doorgroeifunctie. Je initieert en bewaakt de cohesie van
+    <beroepsprofielP3 lang="ned">Dit is geen startersfunctie, maar een doorgroeifunctie. Je initieert en bewaakt de
+        cohesie van
         IT-systemen en ontwikkelingen en legt voortdurend de relatie tot de business- en organisatiedoelen. Je
         communiceert als IT-architect in feite op alle niveaus; een functie met veel verantwoordelijkheid.
     </beroepsprofielP3>
+    <beroepsprofielP3 lang="eng">This is not a starter function, but a growth function. You initiate and secure
+        the cohesion between IT-systems and development and constantly make the relation between business- and
+        organisation goals. You communicate the facts on all levels; a function that requires a lot of responsibility
+    </beroepsprofielP3>
 
     <beroepsprofielH4 lang="ned">Projectmanager IT</beroepsprofielH4>
+    <beroepsprofielH4 lang="eng">Project manager IT</beroepsprofielH4>
 
-    <beroepsprofielP4 lang="ned">De projectmanager IT geeft leiding aan een groep werknemers die werkzaam zijn in de IT-afdeling
+    <beroepsprofielP4 lang="ned">De projectmanager IT geeft leiding aan een groep werknemers die werkzaam zijn in de
+        IT-afdeling
         van een bedrijf.
+    </beroepsprofielP4>
+    <beroepsprofielP4 lang="eng">The project manager It leads a groep of employees that work in the IT-department of a
+        company
     </beroepsprofielP4>
 
     <beroepsprofielH5 lang="ned">IT-consultant</beroepsprofielH5>
+    <beroepsprofielH5 lang="eng">IT-consultant</beroepsprofielH5>
 
-    <beroepsprofielP5 lang="ned">Een IT- of ICT-consultant adviseert, meestal in dienst van een IT-bedrijf, klanten over IT of
-        ICT
+    <beroepsprofielP5 lang="ned">Een IT- of ICT-consultant adviseert, meestal in dienst van een IT-bedrijf, klanten over
+        IT of ICT
+    </beroepsprofielP5>
+
+    <beroepsprofielP5 lang="eng">An IT- or ICT-consultant advises, usually employed by an IT-company, clients about IT
+        or ICT.
     </beroepsprofielP5>
 
     <toelatingseisenH lang="ned">Aan welke toelatingseisen moet ik voldoen?</toelatingseisenH>
+    <toelatingseisenH lang="eng">What admission requirements must I meet?</toelatingseisenH>
 
-    <toelatingseisenP lang="ned">Je wilt starten met een opleiding. Dat kan als je voldoet aan de toelatingseisen. Kijk hier of je
-        daaraan voldoet. Havo diploma, vwo diploma, mbo-niveau 4 diploma, wo-propedeuse, hbo-propedeuse.
+    <toelatingseisenP lang="ned">Je wilt starten met een opleiding. Dat kan als je voldoet aan de toelatingseisen. Je
+        moet een van de volgende hebben: Havo diploma, vwo diploma, mbo-niveau 4 diploma, wo-propedeuse, hbo-propedeuse.
+    </toelatingseisenP>
+    <toelatingseisenP lang="eng">You want to start a study. Then you need to meet the admission requirements. You need
+        to have one of the following: Havo diploma, vwo diploma, mbo-level 4 diploma, wo-propedeuse, hbo-propedeuse.
     </toelatingseisenP>
 
-    <studiepuntenH lang="ned">Is er een minimum aantal studiepunten dat ik moet halen? Wat is een studiepunt, en hoe weet ik
+    <studiepuntenH lang="ned">Is er een minimum aantal studiepunten dat ik moet halen? Wat is een studiepunt, en hoe
+        weet ik
         hoeveel punten ik kan halen?
     </studiepuntenH>
 
-    <studiepuntenP lang="ned">Door middel van het voldoende scoren op je toetsen en projecten kun je studiepunten verzamelen. In
-        het 1e jaar zijn er in totaal 60 punten te behalen, waarmee je ook gelijk je Propedeuse hebt. Echter met 52
-        studiepunten ben je over naar het volgende jaar. Dan ik je in het 2 schooljaar door middel van herkansingen
-        nog de laatste studiepunten behalen waarmee je dan je propedeuse kunt behalen.
+    <studiepuntenP lang="ned">Door middel van het voldoende scoren op je toetsen en projecten kun je studiepunten
+        verzamelen. In het 1e jaar zijn er in totaal 60 punten te behalen, waarmee je ook gelijk je Propedeuse hebt.
+        Echter met 52 studiepunten ben je over naar het volgende jaar. Dan ik je in het 2e schooljaar door middel van
+        herkansingen nog de laatste studiepunten behalen waarmee je dan je propedeuse kunt behalen.
     </studiepuntenP>
+    <studiepuntenP lang="eng">By scoring enough points on your tests and projects, you can gain study points.
+        In the first year there are a lotatl of 60 points, with which you get your propedeuse. If you have 52 points
+        or more you pass to the next year. In the second year you can retake the tests or redo the projects you failed
+        to gain the last study points, with which you get you propedeuse.
+    </studiepuntenP>
+
+    <indeling lang="ned">Indeling</indeling>
+    <indeling lang="eng">Layout</indeling>
+
+    <beroepsprofiel lang="ned">Beroepsprofiel</beroepsprofiel>
+    <beroepsprofiel lang="eng">Professional Profiles</beroepsprofiel>
+
+    <toelatingseisen lang="ned">Toelatingseisen</toelatingseisen>
+    <toelatingseisen lang="eng">Admission requirements </toelatingseisen>
+
+    <studiepunten lang="ned">Studiepunten</studiepunten>
+    <studiepunten lang="eng">Study points</studiepunten>
 </lang>
