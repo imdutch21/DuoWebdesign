@@ -63,15 +63,18 @@
     <watLeerIkP2 lang="ned">
         Je begint de propedeuse met het aanleren van basisvaardigheden. Je maakt kennis met
         verschillende aspecten van softwareontwikkeling, zowel op het technische als op het persoonlijke vlak.
-        Geleidelijk verschuift het accent naar het integreren van deze vaardigheden op groepsniveau. Daarbij beperken we het
+        Geleidelijk verschuift het accent naar het integreren van deze vaardigheden op groepsniveau. Daarbij beperken we
+        het
         aantal onderwerpen waaraan je werkt. Je wisselt de theorie over diverse onderwerpen af met veel
         opdrachten en tussentijdse toetsen. Je oriënteert je ook op het beroepenveld.
     </watLeerIkP2>
     <watLeerIkP2 lang="eng">
         You will start your first year with leaning the basics. You will get acquainted with
         different aspects of software development, both on technically as on the personal level. Gradually focus will
-        shift to integrating these skills in group projects. While doing so, we decrease the amout of subjects you will work
-        on. You will switch between theory about diverse subjects and assignments. You wil also orientate yourself on the
+        shift to integrating these skills in group projects. While doing so, we decrease the amout of subjects you will
+        work
+        on. You will switch between theory about diverse subjects and assignments. You wil also orientate yourself on
+        the
         field of work.
     </watLeerIkP2>
 
@@ -104,6 +107,129 @@
 
     <blok lang="ned">Blok</blok>
     <blok lang="eng">Block</blok>
+
     <periode lang="ned">Periode</periode>
     <periode lang="eng">Period</periode>
+
+    <vakken lang="ned">Vakken</vakken>
+    <vakken lang="eng">Subjects</vakken>
+
+    <praktijkstage lang="ned">Praktijkstage</praktijkstage>
+    <praktijkstage lang="eng">Practical internship</praktijkstage>
+
+    <bedrijfsprocessen lang="ned">Bedrijfsprocessen</bedrijfsprocessen>
+    <bedrijfsprocessen lang="eng">Company processes</bedrijfsprocessen>
+
+    <beroepsorientatie lang="ned">Beroepsoriëntatie</beroepsorientatie>
+    <beroepsorientatie lang="eng">Occupational Orientation</beroepsorientatie>
+
+    <nederlands lang="ned">Nederlands</nederlands>
+    <nederlands lang="eng">Dutch</nederlands>
+
+    <programerenJavaAndroid lang="ned">Programmeren in Java en Android</programerenJavaAndroid>
+    <programerenJavaAndroid lang="eng">Programming in Java and Android</programerenJavaAndroid>
+
+    <rationeleDatabases lang="ned">Relationele Databases</rationeleDatabases>
+    <rationeleDatabases lang="eng">Relational Databases</rationeleDatabases>
+
+    <studievaardigheden lang="ned">Studievaardigheden</studievaardigheden>
+    <studievaardigheden lang="eng">Study Skills</studievaardigheden>
+
+    <duurzameOntwikkeling lang="ned">Duurzame Ontwikkeling</duurzameOntwikkeling>
+    <duurzameOntwikkeling lang="eng">Sustainable Development</duurzameOntwikkeling>
+
+    <professioneleVaardigheden lang="ned">Professionele Vaardigheden</professioneleVaardigheden>
+    <professioneleVaardigheden lang="eng">Professional Skills</professioneleVaardigheden>
+
+    <onderzoeksevaardigheden lang="ned">Onderzoeksevaardigheden</onderzoeksevaardigheden>
+    <onderzoeksevaardigheden lang="eng">Research Skills</onderzoeksevaardigheden>
+
+    <softwareontwerp lang="ned">Softwareontwerp &amp; -architectuur</softwareontwerp>
+    <softwareontwerp lang="ned">Software Design &amp; -architecture</softwareontwerp>
+
+    <computernetwerken lang="ned">Computernetwerken</computernetwerken>
+    <computernetwerken lang="eng">Computer Networks</computernetwerken>
+
+    <algoritmen lang="ned">Algoritmen &amp; Datastructuren</algoritmen>
+    <algoritmen lang="eng">Algorithms &amp; Data Structures</algoritmen>
+
+    <softwareArchitectuur lang="ned">Software architectuur</softwareArchitectuur>
+    <softwareArchitectuur lang="eng">Software architecture</softwareArchitectuur>
+
+    <afstudeerstage lang="ned">Afstudeerstage</afstudeerstage>
+    <afstudeerstage lang="eng">Graduation Internship</afstudeerstage>
+
+    <proffessioneleVaardigheden lang="ned">Professionele vaardigheden (ethiek)</proffessioneleVaardigheden>
+    <proffessioneleVaardigheden lang="eng">Professional skills (ethics)</proffessioneleVaardigheden>
+
+    <indelingH2 lang="ned">Toelichting vakkenoverzich</indelingH2>
+    <indelingH2 lang="eng">Explentation of subjects</indelingH2>
+
+    <indelingP lang="ned">Voor het vak programmeren in het eerste jaar gebruiken we de taal Java en voor het ontwerpen
+        UML. Bij databases leer je hoe je op een goede gestructureerde manier een database opzet en met SQL de data op
+        kunt vragen en bewerken. In het tweede jaar komen bij de ontwikkeling van webapplicaties ASP.net/C# en
+        javascript-frameworks aan bod.
+    </indelingP>
+    <indelingP lang="eng">In the first year for the subject programming we use the language Java and for the desigh UML.
+        With databases you learn how to setup a database in a structure way and get and edit the data with SQL. In the
+        second year you learn how to develop web applications with ASP.net/c# and also we will get to
+        javascript-frameworks.
+    </indelingP>
+
+    <beroepsprofielH1 lang="ned">Welke beroepsprofielen horen bij deze opleiding? Wat kan ik worden als ik Informatica
+        heb gestudeerd?
+    </beroepsprofielH1>
+    <beroepsprofielH1 lang="eng">Which professional profiles belong to this study? What can I do after studying Computer
+        Science?
+    </beroepsprofielH1>
+
+    <beroepsprofielP1 lang="ned">Als afgestudeerd informaticus heb je een luxe positie, want de arbeidsmarkt zit te springen om
+        goede ICT'ers. Ook de voorspellingen voor de komende jaren zijn gunstig. Je kunt dus kiezen waar je wilt werken
+        of wordt zelfs gevraagd voordat je bent afgestudeerd. Kies dus de sector die jou het meeste past. Veel studenten
+        gaan werken bij een ICT-dienstverlener. Je kunt ook gaan werken in een specifieke branche, zoals bij een
+        verzekeringsmaatschappij, bij een ziekenhuis of bij de overheid./br/
+        Potentiële beroepen.
+    </beroepsprofielP1>
+
+    <beroepsprofielH2 lang="ned">Softwareontwikkelaar</beroepsprofielH2>
+
+    <beroepsprofielP2 lang="ned">De software-engineer houdt zich bezig met het ontwerpen, programmeren en testen van applicaties en
+        apps. Hierbij is het belangrijk om met de klant en collega's samen te werken, om zo een compleet programma te
+        creëren dat voldoet aan de eisen van de opdrachtgever.
+    </beroepsprofielP2>
+
+    <beroepsprofielH3 lang="ned">IT-architect</beroepsprofielH3>
+
+    <beroepsprofielP3 lang="ned">Dit is geen startersfunctie, maar een doorgroeifunctie. Je initieert en bewaakt de cohesie van
+        IT-systemen en ontwikkelingen en legt voortdurend de relatie tot de business- en organisatiedoelen. Je
+        communiceert als IT-architect in feite op alle niveaus; een functie met veel verantwoordelijkheid.
+    </beroepsprofielP3>
+
+    <beroepsprofielH4 lang="ned">Projectmanager IT</beroepsprofielH4>
+
+    <beroepsprofielP4 lang="ned">De projectmanager IT geeft leiding aan een groep werknemers die werkzaam zijn in de IT-afdeling
+        van een bedrijf.
+    </beroepsprofielP4>
+
+    <beroepsprofielH5 lang="ned">IT-consultant</beroepsprofielH5>
+
+    <beroepsprofielP5 lang="ned">Een IT- of ICT-consultant adviseert, meestal in dienst van een IT-bedrijf, klanten over IT of
+        ICT
+    </beroepsprofielP5>
+
+    <toelatingseisenH lang="ned">Aan welke toelatingseisen moet ik voldoen?</toelatingseisenH>
+
+    <toelatingseisenP lang="ned">Je wilt starten met een opleiding. Dat kan als je voldoet aan de toelatingseisen. Kijk hier of je
+        daaraan voldoet. Havo diploma, vwo diploma, mbo-niveau 4 diploma, wo-propedeuse, hbo-propedeuse.
+    </toelatingseisenP>
+
+    <studiepuntenH lang="ned">Is er een minimum aantal studiepunten dat ik moet halen? Wat is een studiepunt, en hoe weet ik
+        hoeveel punten ik kan halen?
+    </studiepuntenH>
+
+    <studiepuntenP lang="ned">Door middel van het voldoende scoren op je toetsen en projecten kun je studiepunten verzamelen. In
+        het 1e jaar zijn er in totaal 60 punten te behalen, waarmee je ook gelijk je Propedeuse hebt. Echter met 52
+        studiepunten ben je over naar het volgende jaar. Dan ik je in het 2 schooljaar door middel van herkansingen
+        nog de laatste studiepunten behalen waarmee je dan je propedeuse kunt behalen.
+    </studiepuntenP>
 </lang>
