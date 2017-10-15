@@ -56,7 +56,7 @@ p {
 }
 
 #headContact{
-    background-image: url("../img/Contact.png");
+    background-image: url("../img/contact.png");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -106,7 +106,7 @@ p {
 }
 
 div#watLeerIk {
-    background: url("../img/afbeelding2-Hersteld.png") no-repeat;
+    background: url("../img/afbeelding2_hersteld.png") no-repeat;
     justify-content: center;
     padding-top: 20%;
     width: 100%;
