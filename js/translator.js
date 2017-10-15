@@ -1,19 +1,15 @@
 /*tranlation engine*/
 
-$(document).ready(function(){
+$(document).ready(function () {
     $("#nedSwitch").click(function () {
-        localStorage.setItem("setLanguage", "ned");
-        $("#engSwitch").attr("src", "img/flag_uk.png");
-        $("#nedSwitch").attr("src", "img/flag_nederland_selected.png");
-        loadTranlation(true);
+        setDutch();
     });
 
     $("#engSwitch").click(function () {
-        localStorage.setItem("setLanguage", "eng");
-        $("#engSwitch").attr("src", "img/flag_uk_selected.png");
-        $("#nedSwitch").attr("src", "img/flag_nederland.png");
-        loadTranlation(true);
+        setEnglish();
     });
+    updateLang()
+
 });
 
 function loadTranlation(force) {
@@ -74,18 +70,29 @@ function getCurrentLang() {
         return "ned";
 }
 
-
-
-function switchLang() {
-    //Switcht de taal en herlaad de vertalingen
-    var lang = localStorage.getItem("setLanguage");
-    if (lang === "eng") {
-        localStorage.setItem("setLanguage", "ned");
-    } else {
-        localStorage.setItem("setLanguage", "eng");
-    }
-    //forceerd de vertaling
+function setEnglish(){
+    localStorage.setItem("setLanguage", "eng");
+    $("#engSwitch").attr("src", "img/flag_uk_selected.png");
+    $("#nedSwitch").attr("src", "img/flag_nederland.png");
     loadTranlation(true);
+}
+
+function setDutch(){
+    localStorage.setItem("setLanguage", "ned");
+    $("#engSwitch").attr("src", "img/flag_uk.png");
+    $("#nedSwitch").attr("src", "img/flag_nederland_selected.png");
+    loadTranlation(true);
+}
+
+
+function updateLang() {
+    //Herlaad de vertalingen als de pagina wordt geladen
+
+    if (getCurrentLang() === "eng") {
+        setEnglish();
+    } else {
+        setDutch();
+    }
 }
 
 /*end tranlation engine*/

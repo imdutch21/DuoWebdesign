@@ -145,7 +145,7 @@
     <onderzoeksevaardigheden lang="eng">Research Skills</onderzoeksevaardigheden>
 
     <softwareontwerp lang="ned">Softwareontwerp &amp; -architectuur</softwareontwerp>
-    <softwareontwerp lang="ned">Software Design &amp; -architecture</softwareontwerp>
+    <softwareontwerp lang="eng">Software Design &amp; -architecture</softwareontwerp>
 
     <computernetwerken lang="ned">Computernetwerken</computernetwerken>
     <computernetwerken lang="eng">Computer Networks</computernetwerken>
@@ -213,7 +213,7 @@
     </beroepsprofielP2>
 
     <beroepsprofielH3 lang="ned">IT-architect</beroepsprofielH3>
-    <beroepsprofielH3 lang="ned">IT-architect</beroepsprofielH3>
+    <beroepsprofielH3 lang="eng">IT-architect</beroepsprofielH3>
 
     <beroepsprofielP3 lang="ned">Dit is geen startersfunctie, maar een doorgroeifunctie. Je initieert en bewaakt de
         cohesie van
@@ -258,8 +258,10 @@
     </toelatingseisenP>
 
     <studiepuntenH lang="ned">Is er een minimum aantal studiepunten dat ik moet halen? Wat is een studiepunt, en hoe
-        weet ik
-        hoeveel punten ik kan halen?
+        weet ik hoeveel punten ik kan halen?
+    </studiepuntenH>
+    <studiepuntenH lang="eng">Is there a minimal amount of study points that I need to get? What is a study point, and
+        how do I know how many I need to get?
     </studiepuntenH>
 
     <studiepuntenP lang="ned">Door middel van het voldoende scoren op je toetsen en projecten kun je studiepunten
@@ -274,14 +276,17 @@
     </studiepuntenP>
 
     <indeling lang="ned">Indeling</indeling>
-    <indeling lang="eng">Layout</indeling>
+    <indeling lang="eng">Structure</indeling>
 
     <beroepsprofiel lang="ned">Beroepsprofiel</beroepsprofiel>
-    <beroepsprofiel lang="eng">Professional Profiles</beroepsprofiel>
+    <beroepsprofiel lang="eng">Professional profiles</beroepsprofiel>
 
     <toelatingseisen lang="ned">Toelatingseisen</toelatingseisen>
-    <toelatingseisen lang="eng">Admission requirements </toelatingseisen>
+    <toelatingseisen lang="eng">Admission requirements</toelatingseisen>
 
     <studiepunten lang="ned">Studiepunten</studiepunten>
     <studiepunten lang="eng">Study points</studiepunten>
+
+    <informaticaStudenten lang="ned">Informatica studenten</informaticaStudenten>
+    <informaticaStudenten lang="eng">Computer science students</informaticaStudenten>
 </lang>
